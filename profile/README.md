@@ -3,4 +3,4 @@
 
 ## Partnerships
 
-![GitHub Verified Partner](./GitHub%20Verified%20Partner%20-%20black.png)
+![GitHub Verified Partner](https://raw.githubusercontent.com/xebia/.github/master/profile/GitHub%20Verified%20Partner%20-%20white.png)
