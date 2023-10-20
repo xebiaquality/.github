@@ -3,4 +3,4 @@
 
 ## Partnerships
 
-![GitHub verified partner](GitHub Verified Partner - black.png)
+![GitHub Verified Partner](./GitHub%20Verified%20Partner%20-%20black.png)
