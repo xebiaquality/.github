@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any Xebia-owned reposi
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Please report them to the Xebia's Security team via an email to [security@xebia.com](mailto:security@xebia.com).
+Please report them to the Xebia's Security team via an email to [security@xebia.com](mailto:security@xebia.com) or through GitHub's private vulnerability reporting feature if it's enabled on this repository.
 
 You should receive a response within 3 business days. If for some reason you do not, please follow up via email to ensure we received your original message.
 
