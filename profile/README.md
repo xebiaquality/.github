@@ -27,13 +27,13 @@ Xebia is your partner of choice for driving technology innovation and transforma
 ## Partnerships
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/github-verified-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/github-verified-black.png">
-  <img alt="GitHub Verified Partner Badge." width="150" src="https://raw.githubusercontent.com/xebia/.github/master/profile/github-verified-black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/github-verified-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/github-verified-black.png">
+  <img alt="GitHub Verified Partner Badge." width="150" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/github-verified-black.png">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/microsoft-msp-color.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/microsoft-msp-black.png">
-  <img alt="Microsoft Solutions Partner." width="150" src="https://raw.githubusercontent.com/xebia/.github/master/profile/microsoft-msp-color.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-color.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-black.png">
+  <img alt="Microsoft Solutions Partner." width="150" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-color.png">
 </picture>
