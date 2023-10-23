@@ -2,7 +2,7 @@
 
 Xebia takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Xebia](https://github.com/xebia/), [Xebia | Microsoft Services](https://github.com/xpiritbv), [Xebia | Data](https://github.com/godatadriven), [Xebia | Functional](https://github.com/47degrees), [Xebia | Cloud](https://github.com/binxio), [Xebia | Software Development](https://github.com/xebia-software-development), [Xebia | Quality](https://github.com/xebiaquality) and [GetIndata](https://github.com/getindata).
 
-If you believe you have found a security vulnerability in any Xebia-owned repository that meets Xebia's definition of a security vulnerability, please report it to us as described below.
+If you believe you have found a security vulnerability in any Xebia-owned repository, please report it to us as described below.
 
 ## Reporting Security Issues
 
