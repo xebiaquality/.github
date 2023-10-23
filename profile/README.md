@@ -34,4 +34,8 @@ Xebia is your partner of choice for driving technology innovation and transforma
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-color.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-black.png">
   <img alt="Microsoft Solutions Partner." height="90" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-color.png">
+</picture><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/scrumdotorg.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/scrumdotorg.png">
+  <img alt="Scrum.org Professional Training Network Partner" height="90" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/scrumdotorg.png">
 </picture>
