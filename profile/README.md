@@ -25,24 +25,23 @@ We offer cutting-edge solutions powered by GitHub, spanning Development, App & I
 Xebia is your partner of choice for driving technology innovation and transformation. 
 
 ## Partnerships
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/github-verified-white.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/github-verified-black.png">
-  <img alt="GitHub Verified Partner Badge." height="90" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/github-verified-black.png">
+  <img alt="GitHub Verified Partner Badge." height="90" valign="middle" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/github-verified-black.png">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-color.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-black.png">
-  <img alt="Microsoft Solutions Partner." height="90" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-color.png">
+  <img alt="Microsoft Solutions Partner." height="90"valign="middle"  src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-color.png">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/amazon-web-services-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/amazon-web-services-light.svg">
-  <img alt="AWS Partner." height="90" hspace="12" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/amazon-web-services-light.svg">
-</picture>
+  <img alt="AWS Partner." height="40" valign="middle" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/amazon-web-services-light.svg">
+</picture>&nbsp;&nbsp;&nbsp;
 <picture>
-  <img alt="Google Cloud Partner." height="90" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/google-cloud.svg">
+  <img alt="Google Cloud Partner." height="40" valign="middle"  src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/google-cloud.svg">
 </picture>
 
 And [all of our partnerships...](https://xebia.com/about-us/partners/)
