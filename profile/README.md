@@ -37,12 +37,12 @@ Xebia is your partner of choice for driving technology innovation and transforma
   <img alt="Microsoft Solutions Partner." height="90" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/microsoft-msp-color.png">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/amazon-web-services-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/amazon-web-services-light.svg">
-  <img alt="AWS Partner." height="90" hspace="12" src="img/amazon-web-services-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/amazon-web-services-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebia/.github/master/profile/img/amazon-web-services-light.svg">
+  <img alt="AWS Partner." height="90" hspace="12" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/amazon-web-services-light.svg">
 </picture>
 <picture>
-  <img alt="Google Cloud Partner." height="90" src="img/google-cloud.svg">
+  <img alt="Google Cloud Partner." height="90" src="https://raw.githubusercontent.com/xebia/.github/master/profile/img/google-cloud.svg">
 </picture>
 
 And [all of our partnerships...](https://xebia.com/about-us/partners/)
